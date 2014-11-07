@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ddh_r-deva" format="1">
+  <advance width="509"/>
+  <outline>
+	<component base="ddha-deva"/>
+	<component base="rakar-deva" xOffset="408" yOffset="16"/>
+	<component base="halant-deva" xOffset="417" yOffset="-24"/>
+  </outline>
+</glyph>

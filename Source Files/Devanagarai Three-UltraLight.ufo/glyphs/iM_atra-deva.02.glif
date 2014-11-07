@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iMatra-deva.02" format="1">
+  <advance width="274"/>
+  <outline>
+	<contour>
+	  <point x="404" y="923" type="line"/>
+	  <point x="203" y="923"/>
+	  <point x="111" y="868"/>
+	  <point x="111" y="695" type="curve" smooth="yes"/>
+	  <point x="111" y="618" type="line"/>
+	  <point x="165" y="618" type="line"/>
+	  <point x="165" y="695" type="line" smooth="yes"/>
+	  <point x="165" y="862"/>
+	  <point x="257" y="879"/>
+	  <point x="404" y="879" type="curve"/>
+	  <point x="428" y="879" type="line"/>
+	  <point x="570" y="879"/>
+	  <point x="659" y="862"/>
+	  <point x="660" y="695" type="curve" smooth="yes"/>
+	  <point x="660" y="608" type="line"/>
+	  <point x="714" y="608" type="line"/>
+	  <point x="714" y="695" type="line"/>
+	  <point x="711" y="868"/>
+	  <point x="623" y="923"/>
+	  <point x="428" y="923" type="curve"/>
+	</contour>
+	<contour>
+	  <point x="111" y="610" type="line"/>
+	  <point x="111" y="0" type="line"/>
+	  <point x="165" y="0" type="line"/>
+	  <point x="165" y="610" type="line"/>
+	</contour>
+	<contour>
+	  <point x="-10" y="634" type="line"/>
+	  <point x="-10" y="590" type="line"/>
+	  <point x="285" y="590" type="line"/>
+	  <point x="285" y="634" type="line"/>
+	</contour>
+	<contour>
+	  <point x="714" y="608" type="move" name="imatra"/>
+	</contour>
+	<contour>
+	  <point x="756" y="608" type="move" name="top"/>
+	</contour>
+  </outline>
+</glyph>

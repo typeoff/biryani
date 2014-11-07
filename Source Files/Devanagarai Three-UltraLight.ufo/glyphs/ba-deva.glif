@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ba-deva" format="1">
+  <advance width="535"/>
+  <unicode hex="092C"/>
+  <outline>
+	<contour>
+	  <point x="156" y="394" type="line"/>
+	  <point x="108" y="394" type="line"/>
+	  <point x="306" y="168" type="line"/>
+	  <point x="354" y="168" type="line" smooth="yes"/>
+	</contour>
+	<component base="va-deva"/>
+	<contour>
+	  <point x="231" y="0" type="move" name="nukta"/>
+	</contour>
+  </outline>
+</glyph>

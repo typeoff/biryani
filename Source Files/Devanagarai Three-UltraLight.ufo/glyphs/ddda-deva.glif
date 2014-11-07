@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ddda-deva" format="1">
+  <advance width="490"/>
+  <unicode hex="097E"/>
+  <outline>
+	<contour>
+	  <point x="50" y="-76" type="line"/>
+	  <point x="50" y="-120" type="line"/>
+	  <point x="440" y="-120" type="line"/>
+	  <point x="440" y="-76" type="line"/>
+	</contour>
+	<component base="dda-deva"/>
+  </outline>
+</glyph>

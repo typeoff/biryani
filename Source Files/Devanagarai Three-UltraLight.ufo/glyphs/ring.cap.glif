@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ring.cap" format="1">
+  <advance width="829"/>
+  <outline>
+	<contour>
+	  <point x="467" y="820"/>
+	  <point x="507" y="860"/>
+	  <point x="507" y="912" type="curve" smooth="yes"/>
+	  <point x="507" y="964"/>
+	  <point x="467" y="1003"/>
+	  <point x="415" y="1003" type="curve" smooth="yes"/>
+	  <point x="361" y="1003"/>
+	  <point x="322" y="964"/>
+	  <point x="322" y="912" type="curve" smooth="yes"/>
+	  <point x="322" y="860"/>
+	  <point x="363" y="820"/>
+	  <point x="415" y="820" type="curve" smooth="yes"/>
+	</contour>
+	<contour>
+	  <point x="386" y="858"/>
+	  <point x="363" y="879"/>
+	  <point x="363" y="912" type="curve" smooth="yes"/>
+	  <point x="363" y="945"/>
+	  <point x="386" y="966"/>
+	  <point x="415" y="966" type="curve" smooth="yes"/>
+	  <point x="445" y="966"/>
+	  <point x="466" y="945"/>
+	  <point x="466" y="912" type="curve" smooth="yes"/>
+	  <point x="466" y="879"/>
+	  <point x="444" y="858"/>
+	  <point x="415" y="858" type="curve" smooth="yes"/>
+	</contour>
+	<contour>
+	  <point x="415" y="758" type="move" name="_Accent"/>
+	</contour>
+  </outline>
+</glyph>

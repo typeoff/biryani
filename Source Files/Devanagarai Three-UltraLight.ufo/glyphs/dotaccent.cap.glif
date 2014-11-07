@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotaccent.cap" format="1">
+  <advance width="829"/>
+  <outline>
+	<contour>
+	  <point x="388" y="968" type="line"/>
+	  <point x="388" y="857" type="line"/>
+	  <point x="442" y="857" type="line"/>
+	  <point x="442" y="968" type="line"/>
+	</contour>
+	<contour>
+	  <point x="415" y="758" type="move" name="_Accent"/>
+	</contour>
+  </outline>
+</glyph>

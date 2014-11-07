@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dh_r-deva" format="1">
+  <advance width="376"/>
+  <outline>
+	<contour>
+	  <point x="475" y="185" type="line"/>
+	  <point x="397" y="163" type="line"/>
+	  <point x="170" y="20" type="line"/>
+	  <point x="198" y="-20" type="line"/>
+	  <point x="475" y="166" type="line"/>
+	</contour>
+	<component base="dh-deva"/>
+  </outline>
+</glyph>

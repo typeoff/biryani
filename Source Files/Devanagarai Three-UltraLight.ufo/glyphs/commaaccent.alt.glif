@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="commaaccent.alt" format="1">
+  <advance width="649"/>
+  <outline>
+	<contour>
+	  <point x="355" y="677" type="line"/>
+	  <point x="387" y="843" type="line"/>
+	  <point x="333" y="843" type="line"/>
+	  <point x="295" y="677" type="line"/>
+	</contour>
+	<contour>
+	  <point x="326" y="546" type="move" name="_accent"/>
+	</contour>
+  </outline>
+</glyph>

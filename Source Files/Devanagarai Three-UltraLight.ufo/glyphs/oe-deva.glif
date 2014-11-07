@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="oe-deva" format="1">
+  <advance width="712"/>
+  <unicode hex="0973"/>
+  <outline>
+	<contour>
+	  <point x="548" y="903" type="line"/>
+	  <point x="548" y="613" type="line"/>
+	  <point x="602" y="613" type="line"/>
+	  <point x="602" y="903" type="line"/>
+	</contour>
+	<component base="a-deva"/>
+  </outline>
+</glyph>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="aaMatra-deva" format="1">
+  <advance width="274"/>
+  <unicode hex="093E"/>
+  <outline>
+	<contour>
+	  <point x="110" y="610" type="line"/>
+	  <point x="110" y="0" type="line"/>
+	  <point x="164" y="0" type="line"/>
+	  <point x="164" y="610" type="line"/>
+	</contour>
+	<contour>
+	  <point x="-10" y="634" type="line"/>
+	  <point x="-10" y="590" type="line"/>
+	  <point x="284" y="590" type="line"/>
+	  <point x="284" y="634" type="line"/>
+	</contour>
+	<contour>
+	  <point x="136" y="634" type="move" name="top"/>
+	</contour>
+	<contour>
+	  <point x="136" y="0" type="move" name="bottom"/>
+	</contour>
+  </outline>
+</glyph>

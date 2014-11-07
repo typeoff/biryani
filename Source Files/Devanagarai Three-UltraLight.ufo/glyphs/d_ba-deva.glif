@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="d_ba-deva" format="1">
+  <advance width="509"/>
+  <outline>
+	<contour>
+	  <point x="223" y="29" type="line"/>
+	  <point x="180" y="29" type="line"/>
+	  <point x="321" y="-132" type="line"/>
+	  <point x="364" y="-132" type="line" smooth="yes"/>
+	</contour>
+	<component base="d_va-deva"/>
+  </outline>
+</glyph>

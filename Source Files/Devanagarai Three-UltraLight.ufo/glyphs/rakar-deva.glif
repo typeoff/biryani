@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rakar-deva" format="1">
+  <advance width="0"/>
+  <outline>
+	<contour>
+	  <point x="64" y="-94" type="line"/>
+	  <point x="-138" y="62" type="line"/>
+	  <point x="-171" y="25" type="line"/>
+	  <point x="31" y="-131" type="line"/>
+	</contour>
+	<contour>
+	  <point x="-105" y="25" type="line"/>
+	  <point x="-138" y="62" type="line"/>
+	  <point x="-340" y="-94" type="line"/>
+	  <point x="-307" y="-131" type="line"/>
+	</contour>
+	<contour>
+	  <point x="-138" y="0" type="move" name="_bottom"/>
+	</contour>
+  </outline>
+</glyph>

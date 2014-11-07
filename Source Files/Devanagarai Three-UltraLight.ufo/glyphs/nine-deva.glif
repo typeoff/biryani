@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="nine-deva" format="1">
+  <advance width="521"/>
+  <unicode hex="096F"/>
+  <outline>
+	<contour>
+	  <point x="397" y="595"/>
+	  <point x="335" y="647"/>
+	  <point x="237" y="647" type="curve"/>
+	  <point x="119" y="647"/>
+	  <point x="47" y="595"/>
+	  <point x="47" y="481" type="curve" smooth="yes"/>
+	  <point x="47" y="355"/>
+	  <point x="179" y="245"/>
+	  <point x="303" y="134" type="curve" smooth="yes"/>
+	  <point x="458" y="-5" type="line"/>
+	  <point x="494" y="35" type="line"/>
+	  <point x="339" y="174" type="line" smooth="yes"/>
+	  <point x="213" y="287"/>
+	  <point x="101" y="370"/>
+	  <point x="101" y="481" type="curve" smooth="yes"/>
+	  <point x="101" y="573"/>
+	  <point x="156" y="603"/>
+	  <point x="237" y="603" type="curve"/>
+	  <point x="299" y="603"/>
+	  <point x="343" y="573"/>
+	  <point x="343" y="481" type="curve" smooth="yes"/>
+	  <point x="343" y="418" type="line"/>
+	  <point x="397" y="418" type="line"/>
+	  <point x="397" y="481" type="line"/>
+	</contour>
+  </outline>
+</glyph>

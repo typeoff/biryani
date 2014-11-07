@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="A" format="1">
+  <advance width="689"/>
+  <unicode hex="0041"/>
+  <outline>
+	<contour>
+	  <point x="25" y="0" type="line"/>
+	  <point x="85" y="0" type="line"/>
+	  <point x="352" y="695" type="line"/>
+	  <point x="336" y="695" type="line"/>
+	  <point x="604" y="0" type="line"/>
+	  <point x="664" y="0" type="line"/>
+	  <point x="368" y="767" type="line"/>
+	  <point x="320" y="767" type="line"/>
+	</contour>
+	<contour>
+	  <point x="157" y="254" type="line"/>
+	  <point x="533" y="254" type="line"/>
+	  <point x="533" y="308" type="line"/>
+	  <point x="157" y="308" type="line"/>
+	</contour>
+	<contour>
+	  <point x="344" y="758" type="move" name="Accent"/>
+	</contour>
+	<contour>
+	  <point x="634" y="0" type="move" name="ogonek"/>
+	</contour>
+  </outline>
+</glyph>

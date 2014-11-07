@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="v_r-deva" format="1">
+  <advance width="325"/>
+  <outline>
+	<contour>
+	  <point x="425" y="202" type="line"/>
+	  <point x="346" y="191" type="line"/>
+	  <point x="72" y="21" type="line"/>
+	  <point x="100" y="-20" type="line"/>
+	  <point x="425" y="194" type="line"/>
+	</contour>
+	<component base="v-deva"/>
+  </outline>
+</glyph>

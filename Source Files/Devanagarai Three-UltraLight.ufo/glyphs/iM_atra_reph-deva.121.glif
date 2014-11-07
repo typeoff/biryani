@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iMatra_reph-deva.121" format="1">
+  <advance width="274"/>
+  <outline>
+	<contour>
+	  <point x="1964" y="625" type="line"/>
+	  <point x="2008" y="625" type="line"/>
+	  <point x="2008" y="786" type="line" smooth="yes"/>
+	  <point x="2008" y="857"/>
+	  <point x="2047" y="879"/>
+	  <point x="2095" y="879" type="curve" smooth="yes"/>
+	  <point x="2118" y="879"/>
+	  <point x="2141" y="873"/>
+	  <point x="2157" y="865" type="curve"/>
+	  <point x="2157" y="912" type="line"/>
+	  <point x="2143" y="918"/>
+	  <point x="2122" y="923"/>
+	  <point x="2095" y="923" type="curve" smooth="yes"/>
+	  <point x="2046" y="923"/>
+	  <point x="1964" y="903"/>
+	  <point x="1964" y="786" type="curve" smooth="yes"/>
+	</contour>
+	<component base="iMatra-deva.121"/>
+  </outline>
+</glyph>

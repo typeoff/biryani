@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ss_ra-deva" format="1">
+  <advance width="564"/>
+  <outline>
+	<contour>
+	  <point x="348" y="264" type="line"/>
+	  <point x="88" y="37" type="line"/>
+	  <point x="121" y="0" type="line"/>
+	  <point x="421" y="267" type="line"/>
+	</contour>
+	<component base="ssa-deva"/>
+  </outline>
+</glyph>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ll_r-deva" format="1">
+  <advance width="746"/>
+  <outline>
+	<component base="lla-deva"/>
+	<component base="rakar-deva" xOffset="510" yOffset="10"/>
+  </outline>
+</glyph>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ph_ra-deva" format="1">
+  <advance width="796"/>
+  <outline>
+	<contour>
+	  <point x="305" y="250" type="line"/>
+	  <point x="61" y="37" type="line"/>
+	  <point x="94" y="0" type="line"/>
+	  <point x="378" y="253" type="line"/>
+	</contour>
+	<component base="pha-deva"/>
+	<contour>
+	  <point x="258" y="0" type="move" name="nukta"/>
+	</contour>
+  </outline>
+</glyph>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gga-deva" format="1">
+  <advance width="580"/>
+  <unicode hex="097B"/>
+  <outline>
+	<contour>
+	  <point x="50" y="44" type="line"/>
+	  <point x="50" y="0" type="line"/>
+	  <point x="450" y="0" type="line"/>
+	  <point x="450" y="44" type="line"/>
+	</contour>
+	<component base="ga-deva"/>
+  </outline>
+</glyph>

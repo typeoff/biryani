@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="b-deva" format="1">
+  <advance width="325"/>
+  <outline>
+	<contour>
+	  <point x="156" y="394" type="line"/>
+	  <point x="108" y="394" type="line"/>
+	  <point x="306" y="168" type="line"/>
+	  <point x="354" y="168" type="line" smooth="yes"/>
+	</contour>
+	<component base="v-deva"/>
+  </outline>
+</glyph>

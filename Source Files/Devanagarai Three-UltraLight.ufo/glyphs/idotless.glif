@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="idotless" format="1">
+  <advance width="254"/>
+  <unicode hex="0131"/>
+  <outline>
+	<contour>
+	  <point x="100" y="546" type="line"/>
+	  <point x="100" y="0" type="line"/>
+	  <point x="154" y="0" type="line"/>
+	  <point x="154" y="546" type="line"/>
+	</contour>
+	<contour>
+	  <point x="127" y="546" type="move" name="accent"/>
+	</contour>
+  </outline>
+</glyph>
