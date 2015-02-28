@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni092E" format="1">
+  <advance width="609"/>
+  <unicode hex="092E"/>
+  <outline>
+    <contour>
+      <point x="529" y="0" type="line"/>
+      <point x="529" y="550" type="line"/>
+      <point x="619" y="550" type="line"/>
+      <point x="619" y="674" type="line"/>
+      <point x="-10" y="674" type="line"/>
+      <point x="-10" y="550" type="line"/>
+      <point x="60" y="550" type="line"/>
+      <point x="60" y="162" type="line"/>
+      <point x="214" y="162" type="line"/>
+      <point x="214" y="550" type="line"/>
+      <point x="375" y="550" type="line"/>
+      <point x="375" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="453" y="239" type="line"/>
+      <point x="453" y="363" type="line"/>
+      <point x="140" y="363" type="line"/>
+      <point x="140" y="239" type="line"/>
+    </contour>
+    <contour>
+      <point x="155" y="0" type="move" name="nukta"/>
+    </contour>
+    <contour>
+      <point x="451" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="451" y="674" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>ma-deva</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>609</integer>
+        </dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <integer>1</integer>
+        <integer>1</integer>
+        <integer>0</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

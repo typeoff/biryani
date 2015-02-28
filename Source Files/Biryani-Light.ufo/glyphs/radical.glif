@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="radical" format="1">
+  <advance width="700"/>
+  <unicode hex="221A"/>
+  <outline>
+    <contour>
+      <point x="408" y="-173" type="line"/>
+      <point x="750" y="938" type="line"/>
+      <point x="692" y="938" type="line"/>
+      <point x="379" y="-101" type="line"/>
+      <point x="389" y="-101" type="line"/>
+      <point x="196" y="380" type="line"/>
+      <point x="67" y="283" type="line"/>
+      <point x="96" y="240" type="line"/>
+      <point x="195" y="312" type="line"/>
+      <point x="165" y="313" type="line"/>
+      <point x="360" y="-173" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+      </array>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>radical</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>700</integer>
+        </dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <integer>1</integer>
+        <integer>1</integer>
+        <integer>0</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni092E094D0072" format="1">
+  <advance width="353"/>
+  <outline>
+    <contour>
+      <point x="214" y="192" type="line"/>
+      <point x="214" y="550" type="line"/>
+      <point x="364" y="550" type="line"/>
+      <point x="364" y="674" type="line"/>
+      <point x="-10" y="674" type="line"/>
+      <point x="-10" y="550" type="line"/>
+      <point x="60" y="550" type="line"/>
+      <point x="60" y="192" type="line"/>
+    </contour>
+    <contour>
+      <point x="453" y="174" type="line"/>
+      <point x="453" y="308" type="line"/>
+      <point x="420" y="308" type="line"/>
+      <point x="133" y="82" type="line"/>
+      <point x="223" y="-17" type="line"/>
+    </contour>
+    <contour>
+      <point x="453" y="269" type="line"/>
+      <point x="453" y="393" type="line"/>
+      <point x="140" y="393" type="line"/>
+      <point x="140" y="269" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>m_r-deva</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>353</integer>
+        </dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <integer>0</integer>
+        <integer>0</integer>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

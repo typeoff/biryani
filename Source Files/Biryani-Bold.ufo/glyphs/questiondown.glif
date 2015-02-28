@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="questiondown" format="1">
+  <advance width="500"/>
+  <unicode hex="00BF"/>
+  <outline>
+    <contour>
+      <point x="333" y="-14"/>
+      <point x="395" y="-7"/>
+      <point x="463" y="23" type="curve"/>
+      <point x="463" y="179" type="line"/>
+      <point x="410" y="153"/>
+      <point x="350" y="138"/>
+      <point x="289" y="138" type="curve" smooth="yes"/>
+      <point x="238" y="138"/>
+      <point x="205" y="158"/>
+      <point x="205" y="194" type="curve" smooth="yes"/>
+      <point x="205" y="224"/>
+      <point x="214" y="236"/>
+      <point x="255" y="269" type="curve" smooth="yes"/>
+      <point x="305" y="309" type="line" smooth="yes"/>
+      <point x="364" y="356"/>
+      <point x="384" y="389"/>
+      <point x="384" y="462" type="curve" smooth="yes"/>
+      <point x="384" y="528" type="line"/>
+      <point x="208" y="528" type="line"/>
+      <point x="208" y="479" type="line" smooth="yes"/>
+      <point x="208" y="440"/>
+      <point x="200" y="422"/>
+      <point x="167" y="395" type="curve" smooth="yes"/>
+      <point x="137" y="371" type="line" smooth="yes"/>
+      <point x="83" y="327"/>
+      <point x="27" y="282"/>
+      <point x="27" y="180" type="curve" smooth="yes"/>
+      <point x="27" y="51"/>
+      <point x="132" y="-14"/>
+      <point x="269" y="-14" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="388" y="587" type="line"/>
+      <point x="388" y="758" type="line"/>
+      <point x="204" y="758" type="line"/>
+      <point x="204" y="587" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>questiondown</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>500</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

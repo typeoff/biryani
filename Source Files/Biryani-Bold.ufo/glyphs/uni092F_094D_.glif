@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni092F094D" format="1">
+  <advance width="394"/>
+  <outline>
+    <contour>
+      <point x="327" y="117"/>
+      <point x="400" y="129"/>
+      <point x="454" y="171" type="curve"/>
+      <point x="454" y="304" type="line"/>
+      <point x="400" y="261"/>
+      <point x="339" y="241"/>
+      <point x="287" y="241" type="curve" smooth="yes"/>
+      <point x="253" y="241"/>
+      <point x="214" y="248"/>
+      <point x="195" y="287" type="curve"/>
+      <point x="275" y="328"/>
+      <point x="304" y="378"/>
+      <point x="304" y="437" type="curve" smooth="yes"/>
+      <point x="304" y="476"/>
+      <point x="279" y="532"/>
+      <point x="241" y="579" type="curve"/>
+      <point x="87" y="579" type="line"/>
+      <point x="123" y="534"/>
+      <point x="150" y="493"/>
+      <point x="150" y="451" type="curve" smooth="yes"/>
+      <point x="150" y="406"/>
+      <point x="124" y="367"/>
+      <point x="21" y="324" type="curve"/>
+      <point x="70" y="146"/>
+      <point x="153" y="117"/>
+      <point x="287" y="117" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="404" y="550" type="line"/>
+      <point x="404" y="674" type="line"/>
+      <point x="-10" y="674" type="line"/>
+      <point x="-10" y="550" type="line"/>
+    </contour>
+    <contour>
+      <point x="155" y="70" type="move" name="nukta"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>y-deva</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>394</integer>
+        </dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <integer>1</integer>
+        <integer>1</integer>
+        <integer>0</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="trademark" format="1">
+  <advance width="1140"/>
+  <unicode hex="2122"/>
+  <outline>
+    <contour>
+      <point x="634" y="216" type="line"/>
+      <point x="634" y="692" type="line"/>
+      <point x="516" y="689" type="line"/>
+      <point x="734" y="390" type="line"/>
+      <point x="814" y="390" type="line"/>
+      <point x="1032" y="689" type="line"/>
+      <point x="914" y="692" type="line"/>
+      <point x="914" y="216" type="line"/>
+      <point x="1060" y="216" type="line"/>
+      <point x="1060" y="758" type="line"/>
+      <point x="932" y="758" type="line"/>
+      <point x="724" y="473" type="line"/>
+      <point x="824" y="473" type="line"/>
+      <point x="616" y="758" type="line"/>
+      <point x="488" y="758" type="line"/>
+      <point x="488" y="216" type="line"/>
+    </contour>
+    <contour>
+      <point x="304" y="216" type="line"/>
+      <point x="304" y="758" type="line"/>
+      <point x="158" y="758" type="line"/>
+      <point x="158" y="216" type="line"/>
+    </contour>
+    <contour>
+      <point x="187" y="624" type="line"/>
+      <point x="187" y="758" type="line"/>
+      <point x="40" y="758" type="line"/>
+      <point x="40" y="624" type="line"/>
+    </contour>
+    <contour>
+      <point x="422" y="624" type="line"/>
+      <point x="422" y="758" type="line"/>
+      <point x="240" y="758" type="line"/>
+      <point x="240" y="624" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>trademark</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1140</integer>
+        </dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <integer>0</integer>
+        <integer>0</integer>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

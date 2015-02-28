@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="ss_tt_ra-deva" format="1">
-  <advance width="543"/>
-  <outline>
-	<component base="ss_tta-deva"/>
-	<component base="rakar-deva" xOffset="401" yOffset="-46"/>
-  </outline>
-</glyph>

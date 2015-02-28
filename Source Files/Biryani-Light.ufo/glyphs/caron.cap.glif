@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="caron.cap" format="1">
+  <advance width="829"/>
+  <outline>
+    <contour>
+      <point x="442" y="836" type="line"/>
+      <point x="563" y="989" type="line"/>
+      <point x="495" y="989" type="line"/>
+      <point x="387" y="836" type="line"/>
+    </contour>
+    <contour>
+      <point x="442" y="836" type="line"/>
+      <point x="334" y="989" type="line"/>
+      <point x="266" y="989" type="line"/>
+      <point x="387" y="836" type="line"/>
+    </contour>
+    <contour>
+      <point x="415" y="758" type="move" name="_Accent"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>caron.cap</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>649</integer>
+        </dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <integer>1</integer>
+        <integer>1</integer>
+        <integer>0</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

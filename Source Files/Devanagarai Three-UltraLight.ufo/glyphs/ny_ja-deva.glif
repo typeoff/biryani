@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="ny_ja-deva" format="1">
-  <advance width="999"/>
-  <outline>
-	<component base="ny-deva"/>
-	<component base="ja-deva" xOffset="353"/>
-  </outline>
-</glyph>

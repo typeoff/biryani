@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="ghh-deva" format="1">
-  <advance width="314"/>
-  <outline>
-	<component base="g-deva"/>
-	<component base="nukta-deva" xOffset="321" yOffset="117"/>
-  </outline>
-</glyph>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0237" format="1">
+  <advance width="254"/>
+  <unicode hex="0237"/>
+  <outline>
+    <contour>
+      <point x="128" y="-251"/>
+      <point x="154" y="-217"/>
+      <point x="154" y="-90" type="curve" smooth="yes"/>
+      <point x="154" y="546" type="line"/>
+      <point x="100" y="546" type="line"/>
+      <point x="100" y="-84" type="line" smooth="yes"/>
+      <point x="100" y="-178"/>
+      <point x="86" y="-197"/>
+      <point x="36" y="-197" type="curve" smooth="yes"/>
+      <point x="21" y="-197"/>
+      <point x="5" y="-196"/>
+      <point x="-10" y="-193" type="curve"/>
+      <point x="-10" y="-247" type="line"/>
+      <point x="5" y="-250"/>
+      <point x="20" y="-251"/>
+      <point x="31" y="-251" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="127" y="546" type="move" name="accent"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>jdotless</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>314</integer>
+        </dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <integer>1</integer>
+        <integer>1</integer>
+        <integer>0</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>
