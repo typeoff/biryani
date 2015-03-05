@@ -3,7 +3,7 @@ Biryani (बिरयानी)
 
 Biryani is a libre font development project. Currently, support for the Devangari and Latin scripts is offered. The design takes the form of a geometric, monolinear sans. Both the Devanagari and Latin character sets are oiginal work developed by Dan Reynolds and Mathieu Réguer.
 
-Biryani will be available for free via the Google Web Fonts project. 
+Biryani will be available for free via the Google Fonts directory. 
 
 The Biryani typeface falls more along the display spectrum. It is not quite a design intended for the setting of text meant for immersive reading. In addition to Western and Central European languages, Biryani may be be  to set text in languages written in the Devanagari script, including Hindi, Marathi, Nepali, Sanskrit, etc. 
 
