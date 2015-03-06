@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="increment" format="1">
+  <advance width="819"/>
+  <unicode hex="2206"/>
+  <outline>
+    <contour>
+      <point x="210" y="0" type="line"/>
+      <point x="447" y="695" type="line"/>
+      <point x="371" y="695" type="line"/>
+      <point x="609" y="0" type="line"/>
+      <point x="789" y="0" type="line"/>
+      <point x="523" y="767" type="line"/>
+      <point x="295" y="767" type="line"/>
+      <point x="30" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="658" y="0" type="line"/>
+      <point x="658" y="154" type="line"/>
+      <point x="172" y="154" type="line"/>
+      <point x="172" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>increment</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>819</integer>
+        </dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <integer>0</integer>
+        <integer>0</integer>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

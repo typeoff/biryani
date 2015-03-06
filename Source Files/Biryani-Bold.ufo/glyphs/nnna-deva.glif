@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="nnna-deva" format="1">
+  <advance width="590"/>
+  <unicode hex="0929"/>
+  <outline>
+    <component base="na-deva"/>
+    <component base="nukta-deva" xOffset="409" yOffset="117"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>nnna-deva</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>570</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

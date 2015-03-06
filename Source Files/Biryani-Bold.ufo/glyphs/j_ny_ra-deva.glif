@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="j_ny_ra-deva" format="1">
+  <advance width="826"/>
+  <outline>
+    <contour>
+      <point x="746" y="0" type="line"/>
+      <point x="746" y="550" type="line"/>
+      <point x="836" y="550" type="line"/>
+      <point x="836" y="674" type="line"/>
+      <point x="-10" y="674" type="line"/>
+      <point x="-10" y="550" type="line"/>
+      <point x="592" y="550" type="line"/>
+      <point x="592" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="187" y="-15" type="line"/>
+      <point x="187" y="234" type="line"/>
+      <point x="53" y="234" type="line"/>
+      <point x="53" y="-15" type="line"/>
+    </contour>
+    <contour>
+      <point x="173" y="63" type="line" smooth="yes"/>
+      <point x="336" y="63"/>
+      <point x="431" y="126"/>
+      <point x="431" y="264" type="curve" smooth="yes"/>
+      <point x="431" y="396"/>
+      <point x="340" y="449"/>
+      <point x="171" y="449" type="curve" smooth="yes"/>
+      <point x="52" y="449" type="line"/>
+      <point x="52" y="365" type="line"/>
+      <point x="171" y="365" type="line" smooth="yes"/>
+      <point x="242" y="365"/>
+      <point x="277" y="347"/>
+      <point x="277" y="276" type="curve"/>
+      <point x="277" y="208"/>
+      <point x="254" y="187"/>
+      <point x="172" y="187" type="curve" smooth="yes"/>
+      <point x="152" y="187" type="line" smooth="yes"/>
+      <point x="152" y="63" type="line"/>
+    </contour>
+    <contour>
+      <point x="663" y="147" type="line"/>
+      <point x="624" y="284" type="line"/>
+      <point x="368" y="82" type="line"/>
+      <point x="458" y="-17" type="line"/>
+    </contour>
+    <contour>
+      <point x="670" y="365" type="line"/>
+      <point x="670" y="489" type="line"/>
+      <point x="52" y="489" type="line"/>
+      <point x="52" y="365" type="line"/>
+    </contour>
+    <contour>
+      <point x="672" y="674" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="672" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>j_ny_ra-deva</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>826</integer>
+        </dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <integer>0</integer>
+        <integer>0</integer>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

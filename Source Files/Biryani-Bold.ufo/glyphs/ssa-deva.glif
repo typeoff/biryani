@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ssa-deva" format="1">
+  <advance width="615"/>
+  <unicode hex="0937"/>
+  <outline>
+    <contour>
+      <point x="535" y="0" type="line"/>
+      <point x="535" y="550" type="line"/>
+      <point x="625" y="550" type="line"/>
+      <point x="625" y="674" type="line"/>
+      <point x="-10" y="674" type="line"/>
+      <point x="-10" y="550" type="line"/>
+      <point x="60" y="550" type="line"/>
+      <point x="60" y="382" type="line" smooth="yes"/>
+      <point x="60" y="221"/>
+      <point x="138" y="174"/>
+      <point x="266" y="174" type="curve" smooth="yes"/>
+      <point x="330" y="174"/>
+      <point x="377" y="192"/>
+      <point x="419" y="227" type="curve"/>
+      <point x="419" y="360" type="line"/>
+      <point x="391" y="335"/>
+      <point x="352" y="298"/>
+      <point x="297" y="298" type="curve" smooth="yes"/>
+      <point x="235" y="298"/>
+      <point x="214" y="320"/>
+      <point x="214" y="382" type="curve" smooth="yes"/>
+      <point x="214" y="550" type="line"/>
+      <point x="381" y="550" type="line"/>
+      <point x="381" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="450" y="290" type="line" smooth="yes"/>
+      <point x="257" y="601" type="line"/>
+      <point x="149" y="601" type="line"/>
+      <point x="342" y="290" type="line"/>
+    </contour>
+    <contour>
+      <point x="118" y="80" type="move" name="nukta"/>
+    </contour>
+    <contour>
+      <point x="458" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="458" y="674" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>ssa-deva</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>615</integer>
+        </dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <integer>1</integer>
+        <integer>1</integer>
+        <integer>0</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

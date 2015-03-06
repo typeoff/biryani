@@ -3,7 +3,7 @@
   <advance width="1175"/>
   <unicode hex="00BC"/>
   <outline>
-    <component base="uni00B9"/>
+    <component base="onesuperior"/>
     <component base="fraction" xOffset="390"/>
     <component base="four.superior" xOffset="785"/>
   </outline>

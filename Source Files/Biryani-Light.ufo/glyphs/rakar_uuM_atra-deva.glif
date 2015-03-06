@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rakar_uuMatra-deva" format="1">
+  <advance width="0"/>
+  <outline>
+    <contour>
+      <point x="-94" y="-347" type="line"/>
+      <point x="-94" y="-303" type="line"/>
+      <point x="-148" y="-303" type="line"/>
+      <point x="-208" y="-303"/>
+      <point x="-243" y="-279"/>
+      <point x="-243" y="-235" type="curve"/>
+      <point x="-243" y="-191"/>
+      <point x="-210" y="-163"/>
+      <point x="-146" y="-163" type="curve"/>
+      <point x="-51" y="-163"/>
+      <point x="-10" y="-234"/>
+      <point x="40" y="-332" type="curve"/>
+      <point x="80" y="-310" type="line"/>
+      <point x="32" y="-218"/>
+      <point x="-20" y="-119"/>
+      <point x="-146" y="-119" type="curve"/>
+      <point x="-236" y="-119"/>
+      <point x="-297" y="-157"/>
+      <point x="-297" y="-235" type="curve"/>
+      <point x="-295" y="-308"/>
+      <point x="-235" y="-347"/>
+      <point x="-148" y="-347" type="curve"/>
+    </contour>
+    <contour>
+      <point x="-105" y="25" type="line"/>
+      <point x="-138" y="62" type="line"/>
+      <point x="-340" y="-94" type="line"/>
+      <point x="-307" y="-131" type="line"/>
+    </contour>
+    <contour>
+      <point x="64" y="-94" type="line"/>
+      <point x="-138" y="62" type="line"/>
+      <point x="-171" y="25" type="line"/>
+      <point x="31" y="-131" type="line"/>
+    </contour>
+    <contour>
+      <point x="-138" y="0" type="move" name="_bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>rakar_uuMatra-deva</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>0</integer>
+        </dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <integer>0</integer>
+        <integer>0</integer>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

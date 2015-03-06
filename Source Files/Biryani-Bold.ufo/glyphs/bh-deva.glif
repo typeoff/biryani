@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bh-deva" format="1">
+  <advance width="458"/>
+  <outline>
+    <contour>
+      <point x="388" y="162" type="line"/>
+      <point x="388" y="523" type="line"/>
+      <point x="388" y="624"/>
+      <point x="344" y="677"/>
+      <point x="219" y="677" type="curve" smooth="yes"/>
+      <point x="96" y="677"/>
+      <point x="50" y="621"/>
+      <point x="50" y="523" type="curve" smooth="yes"/>
+      <point x="50" y="445" type="line"/>
+      <point x="184" y="445" type="line"/>
+      <point x="184" y="523" type="line" smooth="yes"/>
+      <point x="184" y="553"/>
+      <point x="189" y="563"/>
+      <point x="209" y="563" type="curve" smooth="yes"/>
+      <point x="229" y="563"/>
+      <point x="234" y="554"/>
+      <point x="234" y="523" type="curve" smooth="yes"/>
+      <point x="234" y="162" type="line"/>
+    </contour>
+    <contour>
+      <point x="517" y="239" type="line"/>
+      <point x="517" y="363" type="line"/>
+      <point x="314" y="363" type="line"/>
+      <point x="314" y="239" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>bh-deva</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>458</integer>
+        </dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <integer>1</integer>
+        <integer>1</integer>
+        <integer>0</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="t-deva" format="1">
+  <advance width="300"/>
+  <outline>
+    <contour>
+      <point x="252" y="0" type="line"/>
+      <point x="252" y="44" type="line"/>
+      <point x="240" y="44" type="line" smooth="yes"/>
+      <point x="164" y="44"/>
+      <point x="118" y="80"/>
+      <point x="116" y="227" type="curve"/>
+      <point x="118" y="374"/>
+      <point x="153" y="406"/>
+      <point x="220" y="406" type="curve" smooth="yes"/>
+      <point x="418" y="406" type="line"/>
+      <point x="418" y="450" type="line"/>
+      <point x="220" y="450" type="line" smooth="yes"/>
+      <point x="115" y="450"/>
+      <point x="62" y="393"/>
+      <point x="62" y="227" type="curve" smooth="yes"/>
+      <point x="62" y="60"/>
+      <point x="131" y="0"/>
+      <point x="240" y="0" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="313" y="590" type="line"/>
+      <point x="313" y="634" type="line"/>
+      <point x="-10" y="634" type="line"/>
+      <point x="-10" y="590" type="line"/>
+    </contour>
+    <contour>
+      <point x="128" y="-103" type="move" name="nukta"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>t-deva</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>374</integer>
+        </dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <integer>1</integer>
+        <integer>1</integer>
+        <integer>0</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

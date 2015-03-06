@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ra-deva" format="1">
+  <advance width="522"/>
+  <unicode hex="0930"/>
+  <outline>
+    <contour>
+      <point x="486" y="0" type="line"/>
+      <point x="486" y="124" type="line"/>
+      <point x="351" y="124" type="line"/>
+      <point x="274" y="124"/>
+      <point x="244" y="141"/>
+      <point x="244" y="195" type="curve"/>
+      <point x="244" y="429" type="line"/>
+      <point x="90" y="429" type="line"/>
+      <point x="90" y="195" type="line" smooth="yes"/>
+      <point x="90" y="34"/>
+      <point x="201" y="0"/>
+      <point x="351" y="0" type="curve"/>
+    </contour>
+    <contour>
+      <point x="250" y="218" type="line" smooth="yes"/>
+      <point x="378" y="218"/>
+      <point x="444" y="258"/>
+      <point x="444" y="395" type="curve"/>
+      <point x="444" y="613" type="line"/>
+      <point x="290" y="613" type="line"/>
+      <point x="290" y="395" type="line"/>
+      <point x="290" y="348"/>
+      <point x="275" y="342"/>
+      <point x="250" y="342" type="curve" smooth="yes"/>
+      <point x="228" y="342" type="line"/>
+      <point x="228" y="218" type="line"/>
+    </contour>
+    <contour>
+      <point x="532" y="550" type="line"/>
+      <point x="532" y="674" type="line"/>
+      <point x="-10" y="674" type="line"/>
+      <point x="-10" y="550" type="line"/>
+    </contour>
+    <contour>
+      <point x="91" y="-77" type="move" name="nukta"/>
+    </contour>
+    <contour>
+      <point x="187" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="363" y="674" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>90</integer>
+          <key>isGlobal</key>
+          <integer>0</integer>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>442</integer>
+          <key>y</key>
+          <string>-4</string>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>ra-deva</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>522</integer>
+        </dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <integer>1</integer>
+        <integer>1</integer>
+        <integer>0</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

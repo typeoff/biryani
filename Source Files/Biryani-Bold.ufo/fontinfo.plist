@@ -7,17 +7,20 @@
 	<key>capHeight</key>
 	<integer>758</integer>
 	<key>copyright</key>
-	<string>Copyright (c) 2015 by Dan Reynolds and Mathieu Réguer. All rights reserved.</string>
+	<string>Copyright (c) 2015 Dan Reynolds. Copyright (c) 2015 Mathieu Réguer.</string>
 	<key>descender</key>
 	<integer>-500</integer>
 	<key>familyName</key>
 	<string>Biryani</string>
+	<key>fsType</key>
+	<array>
+	</array>
 	<key>license</key>
 	<string>This Font Software is licensed under the SIL Open Font License Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL</string>
 	<key>licenseURL</key>
 	<string>http://scripts.sil.org/OFL</string>
 	<key>openTypeHeadCreated</key>
-	<string>2015/02/28 08:53:05</string>
+	<string>2015/03/06 06:50:06</string>
 	<key>openTypeNameDesigner</key>
 	<string>Dan Reynolds and Mathieu Réguer</string>
 	<key>openTypeNameDesignerURL</key>
@@ -79,7 +82,7 @@
 	<key>versionMajor</key>
 	<integer>1</integer>
 	<key>versionMinor</key>
-	<integer>0</integer>
+	<integer>1</integer>
 	<key>xHeight</key>
 	<integer>597</integer>
 </dict>

@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tth_ttha-deva" format="1">
+  <advance width="509"/>
+  <outline>
+    <contour>
+      <point x="271" y="94" type="line"/>
+      <point x="422" y="94"/>
+      <point x="496" y="143"/>
+      <point x="496" y="292" type="curve" smooth="yes"/>
+      <point x="496" y="432"/>
+      <point x="425" y="490"/>
+      <point x="266" y="490" type="curve"/>
+      <point x="111" y="490"/>
+      <point x="31" y="442"/>
+      <point x="31" y="292" type="curve" smooth="yes"/>
+      <point x="31" y="143"/>
+      <point x="106" y="94"/>
+      <point x="256" y="94" type="curve"/>
+    </contour>
+    <contour>
+      <point x="271" y="-350" type="line"/>
+      <point x="422" y="-350"/>
+      <point x="496" y="-301"/>
+      <point x="496" y="-152" type="curve" smooth="yes"/>
+      <point x="496" y="-12"/>
+      <point x="425" y="46"/>
+      <point x="266" y="46" type="curve"/>
+      <point x="111" y="46"/>
+      <point x="31" y="-2"/>
+      <point x="31" y="-152" type="curve" smooth="yes"/>
+      <point x="31" y="-301"/>
+      <point x="106" y="-350"/>
+      <point x="256" y="-350" type="curve"/>
+    </contour>
+    <contour>
+      <point x="211" y="-226"/>
+      <point x="185" y="-214"/>
+      <point x="185" y="-152" type="curve"/>
+      <point x="185" y="-90"/>
+      <point x="215" y="-78"/>
+      <point x="266" y="-78" type="curve"/>
+      <point x="312" y="-78"/>
+      <point x="342" y="-90"/>
+      <point x="342" y="-152" type="curve"/>
+      <point x="342" y="-214"/>
+      <point x="317" y="-226"/>
+      <point x="271" y="-226" type="curve"/>
+      <point x="262" y="-226" type="line"/>
+    </contour>
+    <contour>
+      <point x="372" y="-34"/>
+      <point x="454" y="0"/>
+      <point x="454" y="107" type="curve"/>
+      <point x="454" y="175" type="line"/>
+      <point x="300" y="175" type="line"/>
+      <point x="300" y="104" type="line"/>
+      <point x="300" y="59"/>
+      <point x="290" y="46"/>
+      <point x="266" y="46" type="curve"/>
+      <point x="266" y="-34" type="line"/>
+    </contour>
+    <contour>
+      <point x="211" y="218"/>
+      <point x="185" y="230"/>
+      <point x="185" y="292" type="curve"/>
+      <point x="185" y="354"/>
+      <point x="215" y="366"/>
+      <point x="266" y="366" type="curve"/>
+      <point x="312" y="366"/>
+      <point x="342" y="354"/>
+      <point x="342" y="292" type="curve"/>
+      <point x="342" y="230"/>
+      <point x="317" y="218"/>
+      <point x="271" y="218" type="curve"/>
+      <point x="262" y="218" type="line"/>
+    </contour>
+    <contour>
+      <point x="372" y="410"/>
+      <point x="454" y="439"/>
+      <point x="454" y="531" type="curve"/>
+      <point x="454" y="550" type="line"/>
+      <point x="519" y="550" type="line"/>
+      <point x="519" y="674" type="line"/>
+      <point x="-10" y="674" type="line"/>
+      <point x="-10" y="550" type="line"/>
+      <point x="300" y="550" type="line"/>
+      <point x="300" y="528" type="line"/>
+      <point x="300" y="499"/>
+      <point x="290" y="490"/>
+      <point x="266" y="490" type="curve"/>
+      <point x="266" y="410" type="line"/>
+    </contour>
+    <contour>
+      <point x="372" y="674" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="266" y="-350" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>tth_ttha-deva</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>509</integer>
+        </dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <integer>0</integer>
+        <integer>0</integer>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

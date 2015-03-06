@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iMatra_reph-deva.120" format="1">
+  <advance width="274"/>
+  <outline>
+    <contour>
+      <point x="1958" y="625" type="line"/>
+      <point x="1958" y="786" type="line" smooth="yes"/>
+      <point x="1958" y="857"/>
+      <point x="1997" y="879"/>
+      <point x="2045" y="879" type="curve" smooth="yes"/>
+      <point x="2068" y="879"/>
+      <point x="2091" y="873"/>
+      <point x="2107" y="865" type="curve"/>
+      <point x="2107" y="912" type="line"/>
+      <point x="2093" y="918"/>
+      <point x="2072" y="923"/>
+      <point x="2045" y="923" type="curve" smooth="yes"/>
+      <point x="1996" y="923"/>
+      <point x="1914" y="903"/>
+      <point x="1914" y="786" type="curve" smooth="yes"/>
+      <point x="1914" y="625" type="line"/>
+    </contour>
+    <contour>
+      <point x="1958" y="598" type="line"/>
+      <point x="1958" y="695" type="line"/>
+      <point x="1955" y="868"/>
+      <point x="1860" y="923"/>
+      <point x="1647" y="923" type="curve"/>
+      <point x="421" y="923" type="line"/>
+      <point x="208" y="923"/>
+      <point x="110" y="868"/>
+      <point x="110" y="695" type="curve" smooth="yes"/>
+      <point x="110" y="618" type="line"/>
+      <point x="164" y="618" type="line"/>
+      <point x="164" y="695" type="line" smooth="yes"/>
+      <point x="164" y="862"/>
+      <point x="263" y="879"/>
+      <point x="421" y="879" type="curve"/>
+      <point x="1647" y="879" type="line"/>
+      <point x="1805" y="879"/>
+      <point x="1904" y="862"/>
+      <point x="1904" y="695" type="curve" smooth="yes"/>
+      <point x="1904" y="598" type="line"/>
+    </contour>
+    <contour>
+      <point x="164" y="0" type="line"/>
+      <point x="164" y="610" type="line"/>
+      <point x="110" y="610" type="line"/>
+      <point x="110" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="284" y="590" type="line"/>
+      <point x="284" y="634" type="line"/>
+      <point x="-10" y="634" type="line"/>
+      <point x="-10" y="590" type="line"/>
+    </contour>
+    <contour>
+      <point x="1958" y="598" type="move" name="imatra"/>
+    </contour>
+    <contour>
+      <point x="1996" y="598" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>iMatra_reph-deva.120</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>314</integer>
+        </dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <integer>0</integer>
+        <integer>0</integer>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

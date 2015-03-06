@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="k_t-deva" format="1">
+  <advance width="636"/>
+  <outline>
+    <contour>
+      <point x="555" y="0" type="line"/>
+      <point x="555" y="550" type="line"/>
+      <point x="646" y="550" type="line"/>
+      <point x="646" y="674" type="line"/>
+      <point x="-10" y="674" type="line"/>
+      <point x="-10" y="550" type="line"/>
+      <point x="401" y="550" type="line"/>
+      <point x="401" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="353" y="0" type="line"/>
+      <point x="353" y="124" type="line"/>
+      <point x="332" y="124" type="line"/>
+      <point x="274" y="124"/>
+      <point x="246" y="148"/>
+      <point x="246" y="230" type="curve"/>
+      <point x="246" y="343"/>
+      <point x="277" y="364"/>
+      <point x="347" y="364" type="curve" smooth="yes"/>
+      <point x="479" y="364" type="line"/>
+      <point x="479" y="448" type="line" smooth="yes"/>
+      <point x="317" y="448" type="line" smooth="yes"/>
+      <point x="169" y="448"/>
+      <point x="92" y="363"/>
+      <point x="92" y="225" type="curve" smooth="yes"/>
+      <point x="92" y="57"/>
+      <point x="182" y="0"/>
+      <point x="332" y="0" type="curve"/>
+    </contour>
+    <contour>
+      <point x="447" y="364" type="line"/>
+      <point x="447" y="488" type="line"/>
+      <point x="25" y="488" type="line"/>
+      <point x="25" y="364" type="line"/>
+    </contour>
+    <contour>
+      <point x="696" y="222" type="line"/>
+      <point x="696" y="346" type="line"/>
+      <point x="436" y="346" type="line"/>
+      <point x="436" y="222" type="line"/>
+    </contour>
+    <contour>
+      <point x="128" y="-103" type="move" name="nukta"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>k_t-deva</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>636</integer>
+        </dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <integer>0</integer>
+        <integer>0</integer>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>
