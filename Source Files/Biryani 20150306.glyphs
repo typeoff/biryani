@@ -128777,7 +128777,7 @@ com.typemytype.robofont.mark = (
 {
 color = (255,255,0,1);
 glyphname = eight;
-lastChange = "2015-02-28 08:06:52 +0000";
+lastChange = "2015-03-06 10:03:54 +0000";
 layers = (
 {
 layerId = "BE6E37CB-569E-4B40-A59A-BD6EE6EB60D7";
@@ -128820,23 +128820,6 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"240 418 OFFCURVE",
-"220 444.074 OFFCURVE",
-"220 482 CURVE SMOOTH",
-"220 519.926 OFFCURVE",
-"240 546 OFFCURVE",
-"275 546 CURVE SMOOTH",
-"310 546 OFFCURVE",
-"330 519.926 OFFCURVE",
-"330 482 CURVE SMOOTH",
-"330 444.074 OFFCURVE",
-"310 418 OFFCURVE",
-"275 418 CURVE SMOOTH"
-);
-},
-{
-closed = 1;
-nodes = (
 "423 326 OFFCURVE",
 "508 402 OFFCURVE",
 "508 507 CURVE SMOOTH",
@@ -128849,6 +128832,23 @@ nodes = (
 "42 402 OFFCURVE",
 "117 326 OFFCURVE",
 "275 326 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"240 418 OFFCURVE",
+"220 444.074 OFFCURVE",
+"220 482 CURVE SMOOTH",
+"220 519.926 OFFCURVE",
+"240 546 OFFCURVE",
+"275 546 CURVE SMOOTH",
+"310 546 OFFCURVE",
+"330 519.926 OFFCURVE",
+"330 482 CURVE SMOOTH",
+"330 444.074 OFFCURVE",
+"310 418 OFFCURVE",
+"275 418 CURVE SMOOTH"
 );
 }
 );
@@ -157573,5 +157573,5 @@ type = glyphList;
 );
 };
 versionMajor = 1;
-versionMinor = 1;
+versionMinor = 2;
 }
