@@ -42,7 +42,7 @@
       <point x="287" y="117" type="curve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="155" y="70" type="move" name="nukta"/>
+      <point x="155" y="10" type="move" name="nukta"/>
     </contour>
     <contour>
       <point x="472" y="0" type="move" name="bottom"/>

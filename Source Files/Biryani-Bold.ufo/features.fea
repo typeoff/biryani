@@ -136,16 +136,18 @@ lookup removeReph {
 	sub bh_ra-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by bh_ra-deva;
 	sub m_ra-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by m_ra-deva;
 	sub y_ra-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by y_ra-deva;
+	sub ra_uMatra-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by ra_uMatra-deva;
+	sub ra_uuMatra-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by ra_uuMatra-deva;
 	sub l_ra-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by l_ra-deva;
 	sub l_la-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by l_la-deva;
 	sub ll_ra-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by ll_ra-deva;
 	sub v_ra-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by v_ra-deva;
+	sub sh_ca-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by sh_ca-deva;
+	sub sh_na-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by sh_na-deva;
 	sub sh_ra-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by sh_ra-deva;
 	sub sh_ra_rVocalicMatra-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by sh_ra_rVocalicMatra-deva;
-	sub sh_r_ca-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by sh_r_ca-deva;
-	sub sh_r_na-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by sh_r_na-deva;
-	sub sh_r_la-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by sh_r_la-deva;
-	sub sh_r_va-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by sh_r_va-deva;
+	sub sh_la-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by sh_la-deva;
+	sub sh_va-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by sh_va-deva;
 	sub ss_tta-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by ss_tta-deva;
 	sub ss_tt_ra-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by ss_tt_ra-deva;
 	sub ss_ttha-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by ss_ttha-deva;
@@ -223,6 +225,7 @@ feature half;
 feature cjct;
 feature pres;
 feature abvs;
+feature ss01;
 } aalt;
 
 feature ccmp {
@@ -300,12 +303,6 @@ feature ordn {
 sub [zero one two three four five six seven eight nine] [A a]' by ordfeminine;
 sub [zero one two three four five six seven eight nine] [O o]' by ordmasculine;
 } ordn;
-
-feature dlig {
-# automatic
-sub r uMatra-deva by r_uMatra-deva;
-sub r uuMatra-deva by r_uuMatra-deva;
-} dlig;
 
 feature liga {
 # automatic
@@ -589,10 +586,6 @@ lookup cjct_devanagari {
 	sub k-deva ss_ra-deva by k_ss_ra-deva;
 	sub j-deva ny_ra-deva by j_ny_ra-deva;
 	sub d-deva dh_ra-deva by d_dh_ra-deva;
-	sub sh-deva r ca-deva by sh_r_ca-deva;
-	sub sh-deva r na-deva by sh_r_na-deva;
-	sub sh-deva r la-deva by sh_r_la-deva;
-	sub sh-deva r va-deva by sh_r_va-deva;
 	sub ng-deva k-deva ssa-deva by ng_k_ssa-deva;
 	sub ss-deva tt_ra-deva by ss_tt_ra-deva;
 	sub ss-deva tth_ra-deva by ss_tth_ra-deva;
@@ -670,6 +663,10 @@ lookup cjct_devanagari {
 	sub d-deva dha-deva by d_dha-deva;
 	sub d-deva bha-deva by d_bha-deva;
 	sub ph-deva la-deva by ph_la-deva;
+	sub sh-deva ca-deva by sh_ca-deva;
+	sub sh-deva na-deva by sh_na-deva;
+	sub sh-deva la-deva by sh_la-deva;
+	sub sh-deva va-deva by sh_va-deva;
 	sub h-deva nna-deva by h_nna-deva;
 	sub ng-deva kha-deva by ng_kha-deva;
 	sub ng-deva gha-deva by ng_gha-deva;
@@ -683,7 +680,9 @@ lookup cjct_devanagari {
 	sub ss-deva ttha-deva by ss_ttha-deva;
 	sub ttha-deva halant-deva ttha-deva by tth_ttha-deva;
 	sub ddha-deva halant-deva ddha-deva by ddh_ddha-deva;
+	sub ra-deva uMatra-deva by ra_uMatra-deva;
 	sub ha-deva uMatra-deva by ha_uMatra-deva;
+	sub ra-deva uuMatra-deva by ra_uuMatra-deva;
 	sub ha-deva uuMatra-deva by ha_uuMatra-deva;
 	sub d-deva rVocalicMatra-deva by d_rVocalicMatra-deva;
 } cjct_devanagari;
@@ -1087,7 +1086,7 @@ lookup Imatra1_devanagari {
 } Imatra1_devanagari;
 
 lookup Imatra2_devanagari {
-	sub [iMatra-deva]' [ra-deva r_uuMatra-deva r_uMatra-deva rra-deva zha-deva.loclNEP] by [iMatra-deva.0];
+	sub [iMatra-deva]' [ra-deva ra_uuMatra-deva ra_uMatra-deva rra-deva zha-deva.loclNEP] by [iMatra-deva.0];
 	sub [iMatra-deva]' [nga-deva ng_ka-deva ng_ga-deva ghha-deva gga-deva ng_gha-deva ng_ra-deva dda-deva dd_dda-deva dd_ddha-deva dd_ra-deva dddha-deva rha-deva ddda-deva d_ra-deva] by [iMatra-deva.01];
 		sub [iMatra-deva]' [tta-deva tt_tta-deva tt_ttha-deva tt_ra-deva da-deva d_ga-deva d_da-deva d_na-deva d_va-deva d_ba-deva ddha-deva ddh_ra-deva] by [iMatra-deva.015];
 	sub [iMatra-deva]' [ng_k_ssa-deva ka-deva k_ra-deva pa-deva p_ra-deva pha-deva ph_ra-deva va-deva v_ra-deva ha-deva ba-deva bba-deva b_ra-deva ttha-deva tth_ttha-deva tth_ra-deva ha_uMatra-deva ha_uuMatra-deva h_ra-deva] by [iMatra-deva];
@@ -1102,7 +1101,7 @@ lookup Imatra2_devanagari {
 	sub [iMatra-deva]' [cha-deva ch_ra-deva ch_na-deva ch_va-deva nna-deva nn_ra-deva sha-deva] by [iMatra-deva.06];
 	sub [iMatra-deva]' [sa-deva jha-deva sha-deva.loclMAR] by [iMatra-deva.07];
 	sub [iMatra-deva]' [t_ya-deva k_ssa-deva] by [iMatra-deva.073];
-	sub [iMatra-deva]' [jh_ra-deva la-deva l_ra-deva] by [iMatra-deva.075];
+	sub [iMatra-deva]' [jh_ra-deva l_ra-deva] by [iMatra-deva.075];
 	sub [iMatra-deva]' [kha-deva khha-deva kh_ra-deva] by [iMatra-deva.10];
 	sub [iMatra-deva]' [ny_ca-deva c_ca-deva] by [iMatra-deva.102];
 	sub [iMatra-deva]' [ny_ja-deva] by [iMatra-deva.103];
@@ -1113,7 +1112,7 @@ lookup Imatra2_devanagari {
 } Imatra2_devanagari;
 
 lookup Iimatra_devanagari {
-	sub [fa-deva ph_ra-deva f_ra-deva k_ra-deva pha-deva k_ta-deva qa-deva k_ra-deva.loclNEP r_uuMatra-deva jha-deva.loclNEP k_ka-deva ka-deva] [iiMatra-deva]' by [iiMatra-deva.10];
+	sub [fa-deva ph_ra-deva f_ra-deva k_ra-deva pha-deva k_ta-deva qa-deva k_ra-deva.loclNEP ra_uuMatra-deva jha-deva.loclNEP k_ka-deva ka-deva] [iiMatra-deva]' by [iiMatra-deva.10];
 } Iimatra_devanagari;
 
 language NEP;
@@ -1144,18 +1143,23 @@ feature abvs {
 script dev2;
 lookup Abvs1_devanagari {
 	sub eCandraMatra-deva anusvara-deva by candraBindu-deva;
+	sub ii-deva anusvara-deva by ii_anusvara-deva;
 	sub iMatra-deva anusvara-deva by iMatra_anusvara-deva;
 	sub iMatra-deva reph-deva by iMatra_reph-deva;
 	sub iMatra-deva reph-deva anusvara-deva by iMatra_reph_anusvara-deva;
 	sub iiMatra-deva anusvara-deva by iiMatra_anusvara-deva;
 	sub iiMatra-deva reph-deva by iiMatra_reph-deva;
 	sub iiMatra-deva reph-deva anusvara-deva by iiMatra_reph_anusvara-deva;
+	sub oMatra-deva anusvara-deva by oMatra_anusvara-deva;
 	sub oMatra-deva reph-deva by oMatra_reph-deva;
 	sub oMatra-deva reph-deva anusvara-deva by oMatra_reph_anusvara-deva;
+	sub auMatra-deva anusvara-deva by auMatra_anusvara-deva;
 	sub auMatra-deva reph-deva by auMatra_reph-deva;
 	sub auMatra-deva reph-deva anusvara-deva by auMatra_reph_anusvara-deva;
 	sub iiMatra-deva.10 anusvara-deva by iiMatra_anusvara-deva.10;
+	sub iiMatra-deva.05 reph-deva by iiMatra_reph-deva.05;
 	sub iiMatra-deva.10 reph-deva by iiMatra_reph-deva.10;
+	sub iiMatra-deva.05 reph-deva anusvara-deva by iiMatra_reph_anusvara-deva.05;
 	sub iiMatra-deva.10 reph-deva anusvara-deva by iiMatra_reph_anusvara-deva.10;
 	sub eMatra-deva anusvara-deva by eMatra_anusvara-deva;
 	sub eMatra-deva reph-deva by eMatra_reph-deva;
@@ -1208,4 +1212,8 @@ language MAR;
 lookup Abvs1_devanagari;
 lookup Abvs2_devanagari;
 } abvs;
+
+feature ss01 {
+sub two by two.offenbach;
+} ss01;
 

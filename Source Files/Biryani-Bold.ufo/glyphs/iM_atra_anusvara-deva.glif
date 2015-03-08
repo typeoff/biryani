@@ -3,7 +3,7 @@
   <advance width="314"/>
   <outline>
     <component base="iMatra-deva"/>
-    <component base="anusvara-deva" xOffset="1023" yOffset="4"/>
+    <component base="anusvara-deva" xOffset="1063" yOffset="4"/>
   </outline>
   <lib>
     <dict>

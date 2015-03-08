@@ -4,7 +4,7 @@
   <unicode hex="0958"/>
   <outline>
     <component base="ka-deva"/>
-    <component base="nukta-deva" xOffset="472" yOffset="117"/>
+    <component base="nukta-deva" xOffset="412" yOffset="97"/>
   </outline>
   <lib>
     <dict>

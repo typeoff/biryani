@@ -1231,8 +1231,6 @@
 		<string>zdotaccent</string>
 		<string>fi</string>
 		<string>fl</string>
-		<string>r_uMatra-deva</string>
-		<string>r_uuMatra-deva</string>
 		<string>ordfeminine</string>
 		<string>ordmasculine</string>
 		<string>aCandra-deva</string>
@@ -1241,6 +1239,7 @@
 		<string>aa-deva</string>
 		<string>i-deva</string>
 		<string>ii-deva</string>
+		<string>ii_anusvara-deva</string>
 		<string>u-deva</string>
 		<string>uu-deva</string>
 		<string>rVocalic-deva</string>
@@ -1271,9 +1270,11 @@
 		<string>oCandraMatra-deva</string>
 		<string>oShortMatra-deva</string>
 		<string>oMatra-deva</string>
+		<string>oMatra_anusvara-deva</string>
 		<string>oMatra_reph-deva</string>
 		<string>oMatra_reph_anusvara-deva</string>
 		<string>auMatra-deva</string>
+		<string>auMatra_anusvara-deva</string>
 		<string>auMatra_reph-deva</string>
 		<string>auMatra_reph_anusvara-deva</string>
 		<string>prishthaMatraE-deva</string>
@@ -1426,9 +1427,13 @@
 		<string>iMatra_reph_anusvara-deva.06</string>
 		<string>iMatra_reph_anusvara-deva.07</string>
 		<string>iMatra_reph_anusvara-deva.10</string>
+		<string>iiMatra-deva.05</string>
+		<string>iiMatra-deva_anusvara.05</string>
 		<string>iiMatra-deva.10</string>
 		<string>iiMatra_anusvara-deva.10</string>
+		<string>iiMatra_reph-deva.05</string>
 		<string>iiMatra_reph-deva.10</string>
+		<string>iiMatra_reph_anusvara-deva.05</string>
 		<string>iiMatra_reph_anusvara-deva.10</string>
 		<string>ka-deva</string>
 		<string>kha-deva</string>
@@ -1594,6 +1599,8 @@
 		<string>m_r-deva</string>
 		<string>y_ra-deva</string>
 		<string>y_r-deva</string>
+		<string>ra_uMatra-deva</string>
+		<string>ra_uuMatra-deva</string>
 		<string>l_ra-deva</string>
 		<string>l_la-deva</string>
 		<string>l_r-deva</string>
@@ -1601,13 +1608,13 @@
 		<string>ll_r-deva</string>
 		<string>v_ra-deva</string>
 		<string>v_r-deva</string>
+		<string>sh_ca-deva</string>
+		<string>sh_na-deva</string>
 		<string>sh_ra-deva</string>
 		<string>sh_ra_rVocalicMatra-deva</string>
+		<string>sh_la-deva</string>
+		<string>sh_va-deva</string>
 		<string>sh_r-deva</string>
-		<string>sh_r_ca-deva</string>
-		<string>sh_r_na-deva</string>
-		<string>sh_r_la-deva</string>
-		<string>sh_r_va-deva</string>
 		<string>ss_tta-deva</string>
 		<string>ss_tt_ra-deva</string>
 		<string>ss_ttha-deva</string>
@@ -1690,6 +1697,7 @@
 		<string>seven.alt</string>
 		<string>eight.alt</string>
 		<string>nine.alt</string>
+		<string>two.offenbach</string>
 		<string>four.superior</string>
 		<string>fraction</string>
 		<string>onehalf</string>

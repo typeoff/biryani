@@ -4,7 +4,7 @@
   <unicode hex="090D"/>
   <outline>
     <component base="e-deva"/>
-    <component base="eCandraMatra-deva" xOffset="617" yOffset="40"/>
+    <component base="eCandraMatra-deva" xOffset="437"/>
   </outline>
   <lib>
     <dict>
@@ -39,6 +39,17 @@
         <integer>0</integer>
         <integer>1</integer>
         <integer>1</integer>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>disableAlignment</key>
+          <true/>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>eCandraMatra-deva</string>
+        </dict>
       </array>
     </dict>
   </lib>

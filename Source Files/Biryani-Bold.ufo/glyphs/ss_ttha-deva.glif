@@ -65,10 +65,10 @@
       <point x="325" y="290" type="line"/>
     </contour>
     <contour>
-      <point x="288" y="-241" type="move" name="nukta"/>
+      <point x="297" y="-278" type="move" name="nukta"/>
     </contour>
     <contour>
-      <point x="288" y="-108" type="move" name="bottom"/>
+      <point x="285" y="-155" type="move" name="bottom"/>
     </contour>
     <contour>
       <point x="439" y="673" type="move" name="top"/>

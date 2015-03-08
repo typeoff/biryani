@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="two.offenbach" format="1">
+  <advance width="550"/>
+  <outline>
+    <contour>
+      <point x="345" y="390"/>
+      <point x="266" y="323"/>
+      <point x="42" y="154" type="curve"/>
+      <point x="42" y="0" type="line"/>
+      <point x="523" y="0" type="line"/>
+      <point x="523" y="154" type="line"/>
+      <point x="269" y="154" type="line"/>
+      <point x="456" y="286"/>
+      <point x="523" y="358"/>
+      <point x="523" y="470" type="curve"/>
+      <point x="523" y="584"/>
+      <point x="434" y="686"/>
+      <point x="272" y="686" type="curve"/>
+      <point x="112" y="686"/>
+      <point x="19" y="589"/>
+      <point x="19" y="482" type="curve"/>
+      <point x="19" y="395"/>
+      <point x="77" y="316"/>
+      <point x="185" y="288" type="curve"/>
+      <point x="230" y="327"/>
+      <point x="268" y="359"/>
+      <point x="297" y="405" type="curve"/>
+      <point x="233" y="405"/>
+      <point x="197" y="440"/>
+      <point x="197" y="482" type="curve"/>
+      <point x="197" y="515"/>
+      <point x="221" y="544"/>
+      <point x="272" y="544" type="curve"/>
+      <point x="321" y="544"/>
+      <point x="345" y="510"/>
+      <point x="345" y="470" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

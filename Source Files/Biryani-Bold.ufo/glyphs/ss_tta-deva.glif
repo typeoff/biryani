@@ -57,16 +57,16 @@
       <point x="288" y="307" type="curve"/>
     </contour>
     <contour>
-      <point x="132" y="601" type="line"/>
-      <point x="240" y="601" type="line"/>
       <point x="433" y="290" type="line" smooth="yes"/>
+      <point x="240" y="601" type="line"/>
+      <point x="132" y="601" type="line"/>
       <point x="325" y="290" type="line"/>
     </contour>
     <contour>
-      <point x="308" y="20" type="move" name="nukta"/>
+      <point x="297" y="-278" type="move" name="nukta"/>
     </contour>
     <contour>
-      <point x="624" y="0" type="move" name="bottom"/>
+      <point x="285" y="-155" type="move" name="bottom"/>
     </contour>
     <contour>
       <point x="439" y="673" type="move" name="top"/>

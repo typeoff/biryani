@@ -19,8 +19,10 @@
 	<string>This Font Software is licensed under the SIL Open Font License Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL</string>
 	<key>licenseURL</key>
 	<string>http://scripts.sil.org/OFL</string>
+	<key>note</key>
+	<string>Version 1.003 adds Stylistic Set 01: the substitution of two by two.offenbach</string>
 	<key>openTypeHeadCreated</key>
-	<string>2015/03/06 06:50:06</string>
+	<string>2015/03/07 20:14:22</string>
 	<key>openTypeNameDesigner</key>
 	<string>Dan Reynolds and Mathieu Réguer</string>
 	<key>openTypeNameDesignerURL</key>
@@ -82,7 +84,7 @@
 	<key>versionMajor</key>
 	<integer>1</integer>
 	<key>versionMinor</key>
-	<integer>2</integer>
+	<integer>3</integer>
 	<key>xHeight</key>
 	<integer>546</integer>
 </dict>

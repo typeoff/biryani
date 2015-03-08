@@ -35,7 +35,7 @@
       <point x="386" y="222" type="line"/>
     </contour>
     <contour>
-      <point x="168" y="100" type="move" name="nukta"/>
+      <point x="168" y="60" type="move" name="nukta"/>
     </contour>
   </outline>
   <lib>

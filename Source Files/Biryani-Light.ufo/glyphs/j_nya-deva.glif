@@ -41,8 +41,8 @@
     <contour>
       <point x="508" y="415" type="line"/>
       <point x="508" y="459" type="line"/>
-      <point x="119" y="459" type="line"/>
-      <point x="119" y="415" type="line"/>
+      <point x="83" y="459" type="line"/>
+      <point x="83" y="415" type="line"/>
     </contour>
     <contour>
       <point x="509" y="634" type="move" name="top"/>
