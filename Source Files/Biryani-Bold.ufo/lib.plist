@@ -93,7 +93,7 @@
 			<key>x</key>
 			<integer>388</integer>
 			<key>y</key>
-			<string>-350</string>
+			<integer>-350</integer>
 		</dict>
 	</array>
 	<key>com.typemytype.robofont.italicSlantOffset</key>

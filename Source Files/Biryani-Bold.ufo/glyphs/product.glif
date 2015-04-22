@@ -57,7 +57,7 @@
                   <key>x</key>
                   <integer>120</integer>
                   <key>y</key>
-                  <string>-237</string>
+                  <integer>-237</integer>
                 </dict>
                 <dict>
                   <key>segmentType</key>
@@ -67,7 +67,7 @@
                   <key>x</key>
                   <integer>176</integer>
                   <key>y</key>
-                  <string>-237</string>
+                  <integer>-237</integer>
                 </dict>
                 <dict>
                   <key>segmentType</key>
@@ -102,7 +102,7 @@
                   <key>x</key>
                   <integer>599</integer>
                   <key>y</key>
-                  <string>-237</string>
+                  <integer>-237</integer>
                 </dict>
                 <dict>
                   <key>segmentType</key>
@@ -112,7 +112,7 @@
                   <key>x</key>
                   <integer>655</integer>
                   <key>y</key>
-                  <string>-237</string>
+                  <integer>-237</integer>
                 </dict>
                 <dict>
                   <key>segmentType</key>

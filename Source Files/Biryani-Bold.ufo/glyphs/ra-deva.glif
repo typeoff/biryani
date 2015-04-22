@@ -61,7 +61,7 @@
           <key>x</key>
           <integer>442</integer>
           <key>y</key>
-          <string>-4</string>
+          <integer>-4</integer>
         </dict>
       </array>
       <key>com.typemytype.robofont.layerData</key>
