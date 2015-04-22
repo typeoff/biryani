@@ -102,7 +102,7 @@
                   <key>smooth</key>
                   <integer>0</integer>
                   <key>x</key>
-                  <string>-10</string>
+                  <integer>-10</integer>
                   <key>y</key>
                   <integer>634</integer>
                 </dict>
@@ -112,7 +112,7 @@
                   <key>smooth</key>
                   <integer>0</integer>
                   <key>x</key>
-                  <string>-10</string>
+                  <integer>-10</integer>
                   <key>y</key>
                   <integer>590</integer>
                 </dict>

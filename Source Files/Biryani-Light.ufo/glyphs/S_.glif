@@ -399,7 +399,7 @@
                   <key>x</key>
                   <integer>241</integer>
                   <key>y</key>
-                  <string>-17</string>
+                  <integer>-17</integer>
                 </dict>
                 <dict>
                   <key>segmentType</key>
@@ -409,7 +409,7 @@
                   <key>x</key>
                   <integer>335</integer>
                   <key>y</key>
-                  <string>-17</string>
+                  <integer>-17</integer>
                 </dict>
                 <dict>
                   <key>smooth</key>
@@ -417,7 +417,7 @@
                   <key>x</key>
                   <integer>485</integer>
                   <key>y</key>
-                  <string>-17</string>
+                  <integer>-17</integer>
                 </dict>
                 <dict>
                   <key>smooth</key>

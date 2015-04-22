@@ -45,7 +45,7 @@
                   <key>x</key>
                   <integer>140</integer>
                   <key>y</key>
-                  <string>-129</string>
+                  <integer>-129</integer>
                 </dict>
                 <dict>
                   <key>segmentType</key>
@@ -55,7 +55,7 @@
                   <key>x</key>
                   <integer>196</integer>
                   <key>y</key>
-                  <string>-129</string>
+                  <integer>-129</integer>
                 </dict>
                 <dict>
                   <key>segmentType</key>

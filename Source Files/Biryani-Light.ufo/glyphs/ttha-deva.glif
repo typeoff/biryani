@@ -73,7 +73,7 @@
               <key>x</key>
               <integer>288</integer>
               <key>y</key>
-              <string>-80</string>
+              <integer>-80</integer>
             </dict>
             <dict>
               <key>name</key>

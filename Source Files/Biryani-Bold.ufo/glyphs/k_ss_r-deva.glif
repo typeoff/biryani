@@ -426,7 +426,7 @@
                   <key>x</key>
                   <integer>376</integer>
                   <key>y</key>
-                  <string>-55</string>
+                  <integer>-55</integer>
                 </dict>
                 <dict>
                   <key>segmentType</key>
@@ -456,7 +456,7 @@
                   <key>x</key>
                   <integer>322</integer>
                   <key>y</key>
-                  <string>-55</string>
+                  <integer>-55</integer>
                 </dict>
               </array>
             </dict>

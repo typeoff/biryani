@@ -183,7 +183,7 @@
                   <key>x</key>
                   <integer>195</integer>
                   <key>y</key>
-                  <string>-15</string>
+                  <integer>-15</integer>
                 </dict>
                 <dict>
                   <key>segmentType</key>

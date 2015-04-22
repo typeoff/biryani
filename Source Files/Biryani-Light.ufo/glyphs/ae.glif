@@ -283,7 +283,7 @@
                   <key>x</key>
                   <integer>119</integer>
                   <key>y</key>
-                  <string>-13</string>
+                  <integer>-13</integer>
                 </dict>
                 <dict>
                   <key>segmentType</key>
@@ -293,7 +293,7 @@
                   <key>x</key>
                   <integer>210</integer>
                   <key>y</key>
-                  <string>-13</string>
+                  <integer>-13</integer>
                 </dict>
                 <dict>
                   <key>smooth</key>
@@ -301,7 +301,7 @@
                   <key>x</key>
                   <integer>291</integer>
                   <key>y</key>
-                  <string>-13</string>
+                  <integer>-13</integer>
                 </dict>
                 <dict>
                   <key>smooth</key>
@@ -624,7 +624,7 @@
                   <key>x</key>
                   <integer>463</integer>
                   <key>y</key>
-                  <string>-17</string>
+                  <integer>-17</integer>
                 </dict>
                 <dict>
                   <key>segmentType</key>
@@ -634,7 +634,7 @@
                   <key>x</key>
                   <integer>632</integer>
                   <key>y</key>
-                  <string>-17</string>
+                  <integer>-17</integer>
                 </dict>
                 <dict>
                   <key>smooth</key>
@@ -642,7 +642,7 @@
                   <key>x</key>
                   <integer>695</integer>
                   <key>y</key>
-                  <string>-17</string>
+                  <integer>-17</integer>
                 </dict>
                 <dict>
                   <key>smooth</key>
@@ -650,7 +650,7 @@
                   <key>x</key>
                   <integer>758</integer>
                   <key>y</key>
-                  <string>-1</string>
+                  <integer>-1</integer>
                 </dict>
                 <dict>
                   <key>segmentType</key>
